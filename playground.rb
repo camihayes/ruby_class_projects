@@ -1,3 +1,3 @@
 #code snippets and exercises
 
-#git repo test
+#git repo test for git pull command
