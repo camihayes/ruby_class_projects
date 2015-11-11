@@ -29,7 +29,7 @@ loop do
   end
   puts "Which city do you want the area code for?"
   get_city_names(dial_book)
-  puts "Enter your"
+  puts "Enter your selection"
   prompt = gets.chomp
 
   if dial_book.include?(prompt)
