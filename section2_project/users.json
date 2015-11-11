@@ -1,0 +1,3 @@
+{"email":"madame.vastra@example.com","name":"Vastra","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"clara>oswald@example.com","name":"Clara","permissions":{"accounts":"read","policies":"write","users":"write"}}
+{"email":"rose.tyler@example.com","name":"Rose","permissions":{"accounts":"read","policies":"write","users":"write"}}
